@@ -1,3 +1,6 @@
 Testing git commands
+<<<<<<< HEAD
 git push <remote branch>
+=======
+>>>>>>> 6ec2b87e3961875a8e533d1d0b585632d0698cd0
 Done by Susmit
